@@ -1,0 +1,24 @@
+# SellGUI prices (price PER ITEM).
+# Format:  MATERIAL_NAME: price
+# Material names: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# Items that are not listed here cannot be sold (they are returned to the player).
+# Restart the server after editing this file.
+
+COBBLESTONE: 1.0
+STONE: 2.0
+DIRT: 0.5
+OAK_LOG: 3.0
+COAL: 5.0
+IRON_INGOT: 15.0
+GOLD_INGOT: 25.0
+COPPER_INGOT: 8.0
+REDSTONE: 4.0
+LAPIS_LAZULI: 6.0
+DIAMOND: 100.0
+EMERALD: 80.0
+NETHERITE_INGOT: 1000.0
+WHEAT: 2.0
+CARROT: 2.0
+POTATO: 2.0
+BEEF: 4.0
+PORKCHOP: 4.0
